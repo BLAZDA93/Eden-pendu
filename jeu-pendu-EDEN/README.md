@@ -20,4 +20,6 @@ launch.json a l'interieure du fichier launch il doit y avoir :
 
 
 
-[penduu.txt](https://github.com/BLAZDA93/Eden-pendu/files/6570325/penduu.txt)
+
+[launch.txt](https://github.com/BLAZDA93/Eden-pendu/files/6570333/launch.txt)
+
